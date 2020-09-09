@@ -11,3 +11,6 @@
 系统截图
 ![image](https://github.com/le-723/Library-Management-System/blob/master/picture/图片1.png)
 
+![image](https://github.com/le-723/Library-Management-System/blob/master/picture/图片2.png)
+![image](https://github.com/le-723/Library-Management-System/blob/master/picture/图片3.png)
+![image](https://github.com/le-723/Library-Management-System/blob/master/picture/图片5.png)
